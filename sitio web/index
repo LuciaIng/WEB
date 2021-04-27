@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> MI PRIMERA WEB </title>
+		<link rel="stylesheet" href="styles.css">
+		</head>
+		<body>
+			<h1> Esto es una hamburguesa</h1>
+			<img src="imagenes/hamburguesa.jpg">
+			
+			<p><b>Cómo es</b>Una hamburguesa es un sándwich hecho a base de carne molida o de origen vegetal, aglutinada en forma de filete cocinado a la parrilla o a la plancha, aunque también puede freírse u hornearse.</p>
+		<body>
+	</html>
